@@ -68,10 +68,6 @@ This project helps you organize tasks efficiently with features like add, edit, 
 
 Contributions are welcome! Feel free to fork this repo, open issues, or submit PRs.
 
-📜 License
-
-This project is licensed under the MIT License.
-
 👨‍💻 Author
 
 Harsh ([@harsh31tkd](https://github.com/harsh31tkd?utm_source=chatgpt.com))
