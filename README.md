@@ -17,7 +17,7 @@ This project helps you organize tasks efficiently with features like add, edit, 
 ---
 
 ## 📂 Project Structure
-.
+```
 ├── src/
 │ ├── components/ # Reusable components (e.g., Navbar)
 │ ├── App.jsx # Main app component
@@ -30,7 +30,7 @@ This project helps you organize tasks efficiently with features like add, edit, 
 ├── package-lock.json # Dependency lock file
 ├── package.json # Project metadata & dependencies
 ├── vite.config.js # Vite configuration
-
+```
 
 ---
 
