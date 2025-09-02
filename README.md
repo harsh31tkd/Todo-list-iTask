@@ -60,15 +60,15 @@ This project helps you organize tasks efficiently with features like add, edit, 
     http://localhost:5173
     ```
 
-📸 Screenshots
+## 📸 Screenshots
 <img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/faa30589-8258-4e03-be5e-a53662a87383" />
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo, open issues, or submit PRs.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Harsh ([@harsh31tkd](https://github.com/harsh31tkd?utm_source=chatgpt.com))
 
